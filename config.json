@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruonnect",
+        "uuid": 6630442,
+        "checksum": "wr4mj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
